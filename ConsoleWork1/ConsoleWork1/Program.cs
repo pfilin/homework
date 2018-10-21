@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleWork1
-{
+{12
     class Program
     {
         static void Main(string[] args)
